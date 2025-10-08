@@ -1,0 +1,19 @@
+# MachineLearning
+initgit
+add
+README.mdgit
+commit
+-m
+first commit
+git
+branch
+-M
+maingit
+remote
+add
+origin
+https://github.com/vikasp07/MachineLearning.gitgit
+push
+-u
+origin
+main
